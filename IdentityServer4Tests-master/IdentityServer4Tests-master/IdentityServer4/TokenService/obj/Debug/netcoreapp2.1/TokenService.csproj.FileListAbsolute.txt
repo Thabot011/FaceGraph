@@ -1,0 +1,14 @@
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\bin\Debug\netcoreapp2.1\TokenService.deps.json
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\bin\Debug\netcoreapp2.1\TokenService.runtimeconfig.json
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\bin\Debug\netcoreapp2.1\TokenService.runtimeconfig.dev.json
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\bin\Debug\netcoreapp2.1\TokenService.dll
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\bin\Debug\netcoreapp2.1\TokenService.pdb
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.csprojAssemblyReference.cache
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.csproj.CoreCompileInputs.cache
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.RazorAssemblyInfo.cache
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.RazorAssemblyInfo.cs
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.AssemblyInfoInputs.cache
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.AssemblyInfo.cs
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.RazorTargetAssemblyInfo.cache
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.dll
+E:\FaceGraphTask\IdentityServer4Tests-master\IdentityServer4Tests-master\IdentityServer4\TokenService\obj\Debug\netcoreapp2.1\TokenService.pdb
